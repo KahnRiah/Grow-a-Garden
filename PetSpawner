@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KahnRiah/Grow-a-Garden/refs/heads/main/Pet%20spawner%20utils"))()
